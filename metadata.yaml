@@ -1,0 +1,31 @@
+_repo: By-motor-to-the-Golden-Gate_73784
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Post, Emily
+    alias: Post, Emily Price
+    birthdate: 1873
+    deathdate: 1960
+    gutenberg_agent_id: '5466'
+    url: http://www.gutenberg.org/2009/agents/5466
+    wikipedia: https://en.wikipedia.org/wiki/Emily_Post
+description: ''
+gutenberg_issued: '2024-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73784'
+language: en
+pgterms:marc904: https://archive.org/details/bymotortogoldeng00post
+pgterms:marc905: 20211127074946post
+pgterms:marc906: '1916'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bD. Appleton, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: By motor to the Golden Gate
+url: http://www.gutenberg.org/ebooks/73784
